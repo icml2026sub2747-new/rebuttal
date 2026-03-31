@@ -50,7 +50,7 @@
 | 500 | 0.594 | 0.604 | 0.598 | 0.404 |
 | 1000 | 0.596 | 0.574 | 0.463 | 0.335 |
 
-## Table 3. Evaluation for larger-subject settings by scaling margin `M`. absolute similarity is higher than the ~0.61 multi-subject level because the multi-subject benchmark contains more profile-view dialogue scenes.
+## Table 3. Evaluation for larger-subject settings by scaling margin `M`. single-subject absolute similarity is higher than the ~0.61 multi-subject level because the multi-subject benchmark contains more profile-view dialogue scenes.
 
 | Margin Setting | M | 3M |4M | 5M |
 | --- | ---: | ---: | ---: | ---: |
