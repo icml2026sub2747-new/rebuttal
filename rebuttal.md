@@ -60,7 +60,7 @@
 
 | Method | AES ↑ | ViCLIP ↑ | ID-Sim ↑ | Sync-C ↑ | Sync-D ↓ |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| OmniHuman | 0.545 | - | - | **6.526** | **7.784** |
+| OmniHuman(close source) | 0.545 | - | - | **6.526** | **7.784** |
 | Hallo3 | 0.381 | - | - | 5.189 | 9.212 |
 | FantasyTalking | 0.455 | - | - | 3.202 | 10.914 |
 | HunyuanCustom | 0.358 | 13.525 | <u>0.624</u> | 4.562 | 9.892 |
