@@ -56,7 +56,7 @@
 | --- | ---: | ---: | ---: | ---: |
 | ID-Sim (Single-Subject) ↑ | 0.674 | 0.663 | 0.671 | 0.667 |
 
-## Table 4. Results on the public Mocha benchmark for RA2V and talking avatar. For talking avatar methods, we do not report ID-Sim or ViCLIP because the first frame is fixed.
+## Table 4. Results on the public Mocha benchmark for RA2V and talking avatar.Test method follow Humo. For talking avatar methods, we do not report ID-Sim or ViCLIP because the first frame is fixed.
 
 | Method | AES ↑ | ViCLIP ↑ | ID-Sim ↑ | Sync-C ↑ | Sync-D ↓ |
 | --- | ---: | ---: | ---: | ---: | ---: |
