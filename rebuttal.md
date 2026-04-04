@@ -31,6 +31,12 @@
 <img src="assets/style.png" width=95%>
 </p>
 
+## Figure 6. RV2AV visualization.
+
+<p align="center">
+<img src="assets/rv2av.png" width=95%>
+</p>
+
 ## Table 1. Preservation of non-edited regions in RV2AV.
 
 | Method | Non-Edit Change@10 ↓ | Non-Edit MAE ↓ |
