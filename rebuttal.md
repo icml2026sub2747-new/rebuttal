@@ -37,6 +37,12 @@
 <img src="assets/rv2av.png" width=95%>
 </p>
 
+## Figure 7. Baseline results of R2I+Ovi and R2I+LTX-2 in Identity-as-Presence.
+
+<p align="center">
+<img src="assets/Identity_as_Presence.png" width=95%>
+</p>
+
 ## Table 1. Preservation of non-edited regions in RV2AV.
 
 | Method | Non-Edit Change@10 ↓ | Non-Edit MAE ↓ |
